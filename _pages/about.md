@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), where I am very lucky to be supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I entered Wuhan University in September 2021 and received my bachelor's degree from the School of Cyber Science and Engineering in June 2025, under the supervision of [Prof. Jing Chen](https://cse.whu.edu.cn/info/3421/37531.htm). I joined NTU in August 2025.
+I am a second-year PhD student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), where I am very lucky to be supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I entered Wuhan University in September 2021 and received my bachelor's degree from the School of Cyber Science and Engineering in June 2025, under the supervision of [Prof. Jing Chen](https://cse.whu.edu.cn/info/3421/37531.htm). I joined NTU in August 2025.
 
 Education
 ======
