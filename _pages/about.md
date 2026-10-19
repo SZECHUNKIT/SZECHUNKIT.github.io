@@ -11,7 +11,9 @@ I am a first-year PhD student at CCDS, Nanyang Technological University. I am ve
 
 Research interests
 ======
-Artificial Intelligence, Software Engineering, Blockchain.
+My current research focuses on **large language model (LLM)-driven domain modeling and requirements engineering**, and on applying them to downstream code-related tasks.
+
+Before joining NTU, my research centered on **blockchain security**, including DeFi security and Byzantine fault-tolerant consensus for consortium blockchains.
 
 Publications
 ======
