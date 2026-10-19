@@ -15,4 +15,4 @@ Artificial Intelligence, Software Engineering, Blockchain.
 
 Publications
 ======
-Please see the [Publications]({{ site.baseurl }}/publications/) page, or my [Google Scholar profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ).
+Please see the [Publications]({{ site.baseurl }}/publications/) page.
