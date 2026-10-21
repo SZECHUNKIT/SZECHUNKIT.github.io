@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. student**, College of Computing and Data Science (CCDS), Nanyang Technological University, Singapore, Aug 2025 &ndash; present
+  * Advisor: [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/)
+* **Bachelor's degree**, School of Cyber Science and Engineering, Wuhan University, China, Sep 2021 &ndash; Jun 2025
+  * Advisor: [Prof. Jing Chen](https://cse.whu.edu.cn/info/3421/37531.htm)
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Large language model (LLM)-driven domain modeling and requirements engineering, and their applications to downstream code-related tasks
+  * Applied in scenarios including automotive (in-vehicle) software, enterprise resource planning (ERP) systems, and game generation
+* Blockchain security: DeFi security and Byzantine fault-tolerant consensus for consortium blockchains
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards and competitions
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **3rd Place, Smart Contract Track, ETHGlobal Bangkok 2024** (Bangkok, Thailand, Nov 2024) &mdash; prize US$10,000
+  * Project: Sandwich-Attack-Resistant Automated Market Maker (AMM)
+
+Contact
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: [CHUNKIT001@e.ntu.edu.sg](mailto:CHUNKIT001@e.ntu.edu.sg)
+* GitHub: [SZECHUNKIT](https://github.com/SZECHUNKIT)
