@@ -35,5 +35,5 @@ Awards and competitions
 
 Contact
 ======
-* Email: [CHUNKIT001@e.ntu.edu.sg](mailto:CHUNKIT001@e.ntu.edu.sg)
+* Email: [chunkit001@gmail.com](mailto:chunkit001@gmail.com)
 * GitHub: [SZECHUNKIT](https://github.com/SZECHUNKIT)
